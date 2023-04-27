@@ -1,0 +1,18 @@
+App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+ }
+ 
+ h1{
+ color: #f5f5f9e4;
+ }
+ 
+ .btn{
+     margin: 10px;
+     padding: 10px;
+     border-radius: 3px;
+     background-color: rgb(255, 72, 0);
+ }
