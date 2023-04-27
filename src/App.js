@@ -1,14 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import Increasebutton from './component/counterApp/increasebutton';
-import DecreaseButton from './component/counterApp/decreasebutton';
+import Increasebutton from './component/counterApp/increaseButton';
+import DecreaseButton from './component/counterApp/decreaseButton';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <Increasebutton />
-      <DecreaseButton />
+       <Increasebutton />
+       <DecreaseButton />
       </header>
     </div>
   );
